@@ -56,8 +56,6 @@ Right Click → Open with → Browser
 ```
 TicTacToeGame/
 │── index.html        # Main HTML file with game logic
-│── style.css         # Optional if you separate styles
-│── script.js         # Optional if you separate JS
 │── README.md         # Project documentation
 ```
 
@@ -107,4 +105,4 @@ We welcome contributions! To contribute:
 For questions, feedback, or suggestions:
 
 📧 **Email:** swarup8125@gmail.com  
-🔗 **GitHub:** [Chennuru Swarup](https://github.com/ChennuruSwarup)
+🔗 **GitHub:** [Chennuru Swarup](https://github.com/swarup79997/)
