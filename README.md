@@ -1,6 +1,6 @@
 # 🎮 Tic-Tac-Toe Game
 
-![Tic-Tac-Toe Game Banner](TicTacToe/tictactoe522.png)
+![Tic-Tac-Toe Game Banner](tictactoe522.png)
 
 ## 📌 Project Overview
 The Tic-Tac-Toe Game is a responsive, visually engaging, and interactive web-based project built using HTML, CSS, and JavaScript. It features a beautiful UI, real-time gameplay, score tracking, and winning/draw detection.
